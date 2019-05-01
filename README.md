@@ -5,4 +5,4 @@ To use with Raschad ResurrectioRemix repo manifest
 
 Add to .repo/local_manifest/roomservice.xml
 
-	<project name="kaweksl/android_vendor_kaweksl" path="vendor/kaweksl" remote="kaweksl" revision="master" /> 
+	<project name="kaweksl/android_vendor_kaweksl" path="vendor/kaweksl" remote="github" revision="master" /> 
